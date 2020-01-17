@@ -31,7 +31,7 @@ plugins {
 }
 
 group = "com.openosrs"
-version = "1.0-SNAPSHOT"
+version = "187.0-SNAPSHOT"
 
 repositories {
     jcenter()
